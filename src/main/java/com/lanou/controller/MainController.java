@@ -15,6 +15,11 @@ public class MainController {
 		return "index";
 	}
 	
+	
+	
+	// 哦哦哦哦哦
+	
+	
 	// 到登录页面
 	@RequestMapping(value="/loginpage")
 	public String loginPage() {
