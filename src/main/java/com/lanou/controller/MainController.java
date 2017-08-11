@@ -12,12 +12,12 @@ public class MainController {
 	
 	@RequestMapping(value="/")
 	public String frontPage(){
+		
+		// git测试
+		
 		return "index";
 	}
 	
-	
-	
-	// 哦哦哦哦哦
 	
 	
 	// 到登录页面
