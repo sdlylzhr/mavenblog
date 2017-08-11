@@ -9,6 +9,8 @@ public class NewController {
 	@RequestMapping(value="/testpage")
 	public String testMVC(){
 		
+		// 一些新操作
+		
 		return "index";
 	}
 }
